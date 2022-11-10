@@ -20,12 +20,6 @@ You can install the development version of bis620.2022 from
 devtools::install_github("YimingMiao/bis620.2022")
 ```
 
-``` r
-devtools::install_github("YimingMiao/bis620.2022")
-#> Skipping install of 'bis620.2022' from a github remote, the SHA1 (eab64f5f) has not changed since last install.
-#>   Use `force = TRUE` to force installation
-```
-
 ## Example
 
 This is a basic example which shows you how to solve a common problem:

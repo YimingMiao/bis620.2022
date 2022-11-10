@@ -29,9 +29,6 @@ You can install the development version of bis620.2022 from [GitHub](https://git
 # install.packages("devtools")
 devtools::install_github("YimingMiao/bis620.2022")
 ```
-```{r}
-devtools::install_github("YimingMiao/bis620.2022")
-```
 
 ## Example
 
