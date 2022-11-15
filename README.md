@@ -6,9 +6,9 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/YimingMiao/bis620.2022/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/YimingMiao/bis620.2022/actions/workflows/R-CMD-check.yaml)
+[![test-coverage](https://github.com/YimingMiao/bis620.2022/actions/workflows/test-coverage.yaml/badge.svg)](https://github.com/YimingMiao/bis620.2022/actions/workflows/test-coverage.yaml)
+[![lint](https://github.com/YimingMiao/bis620.2022/actions/workflows/lint.yaml/badge.svg)](https://github.com/YimingMiao/bis620.2022/actions/workflows/lint.yaml)
 <!-- badges: end -->
-
-[![github-action-hw3-check](https://github.com/YimingMiao/bis620.2022/actions/workflows/github-action-hw3.yml/badge.svg)](https://github.com/YimingMiao/bis620.2022/actions/workflows/github-action-hw3.yml)
 
 The goal of bis620.2022 is to …
 
