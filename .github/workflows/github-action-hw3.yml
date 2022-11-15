@@ -1,8 +1,10 @@
+name: github-action-hw3
+
 on:
   push:
-    branches:    
+    branches:
       - master
-      
+
 jobs:
   job1:
     name: test the package

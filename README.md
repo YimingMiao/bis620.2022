@@ -8,6 +8,8 @@
 [![R-CMD-check](https://github.com/YimingMiao/bis620.2022/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/YimingMiao/bis620.2022/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
+\[![github-action-hw3-check](https://github.com/YimingMiao/bis620.2022/actionsworkflows/github-action-hw3.yml/badge.svg)
+
 The goal of bis620.2022 is to …
 
 ## Installation
