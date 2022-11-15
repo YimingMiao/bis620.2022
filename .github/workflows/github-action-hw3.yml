@@ -1,0 +1,14 @@
+on:
+  push:
+    branches:    
+      - master
+      
+jobs:
+  job1:
+    name: test the package
+    runs-on: macOS-latest
+    steps:
+    - name: Print a greetingtest the package
+    run:
+      devtools::test()
+
