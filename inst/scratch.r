@@ -8,7 +8,7 @@ document()
 
 data(ukb_accel)
 
-dt <-  first(ukb_accel$time)
+dt <- first(ukb_accel$time)
 
 ukb_accel |>
   filter(time >= dt  & time < dt + minutes(5)) |>
