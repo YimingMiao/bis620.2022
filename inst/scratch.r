@@ -23,3 +23,9 @@ ukb_accel |>
   spectral_signature(take_log = FALSE) |>
  # filter(freq <= 10) |>
   accel_plot()
+
+#######
+test_df <- data.frame(freq = sample(1:100, 100, replace = TRUE),
+                      X = runif(100, -1, 1),
+                      Y = runif(100, -1, 1))
+p <- accel_plot(test_df)
