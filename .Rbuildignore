@@ -5,7 +5,7 @@
 ^.DS_Store$
 ^.Rhistory$
 ^.Rproj.user$
-~\.git$
+^\.git$
 ^\.github$
 ^README\.Rmd$
 ^codecov\.yml$
